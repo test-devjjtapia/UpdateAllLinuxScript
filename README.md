@@ -89,7 +89,7 @@ reset=$(tput sgr0)
 
 ## Licencia
 
-Este script se distribuye bajo la licencia MIT.
+Este script se distribuye bajo la licencia Apache 2.0.
 
 ---
 
