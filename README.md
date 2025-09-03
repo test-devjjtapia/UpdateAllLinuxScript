@@ -92,5 +92,3 @@ reset=$(tput sgr0)
 Este script se distribuye bajo la licencia Apache 2.0.
 
 ---
-
-**Javier J. Tapia -
